@@ -13,7 +13,7 @@ import org.acme.services.Calc;
 public class ExampleResource {
 
 	@Inject
-	Calc calc;
+	Calc calc; 
 	
 	
 
